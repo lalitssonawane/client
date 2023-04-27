@@ -1,6 +1,7 @@
 import axios from "axios";
 
-const baseURL = "http://localhost:5000/";
+const baseURL =
+  "https://644a2ac8ae4bb45601f42340--joyful-cassata-3fcb05.netlify.app/";
 
 const API = axios.create({
   baseURL,
